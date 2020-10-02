@@ -14,7 +14,7 @@ c
 ![C screenshot](http://i.imgur.com/D3fPm.png)
 
 ## Give folders or files Comments!!
-Sometimes I lose track of what certain folders or files are for or do. Instead of having to open the project I wanted a way to quickly give a certain directory a comment describing what the project does or what technology it makes use of. Couldn't find a way to do this easily, so I made this.
+Sometimes I lose track of what certain folders or files are for or do. Instead of having to open the project I wanted a way to quickly give a certain directory a comment describing what the project does or what technology it makes use of. Could not find a way to do this easily, so I made this.
 
 This is my first C program, so feel free to send some fixes or point out things I have done that could be better. Would love some feedback!
 
@@ -43,7 +43,7 @@ To view all of the files/directories
 	
 ### Adding comments
 
-This will replace whatever comment that file already has if it has one
+This will replace whatever comment that file already has if it has one:
     
 	c <filename or directory name> "comment"
 	
